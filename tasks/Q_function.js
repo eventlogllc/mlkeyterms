@@ -5,3 +5,8 @@
       "[和] [関連] 強化学習 [Kyouka Gakushu] [きょうかがくしゅう], 関数 [Kansuu] [かんすう], 予測 [Yosoku] [よそく], 期待収益 [Kitai Shuueki] [きたいしゅうえき], から [Kara] [から], 実行する [Jikkou Suru] [じっこうする], 状態で [Joutai de] [じょうたいで], その後 [Sonogo] [そのご], 規定の方策 [Kitei no Housaku] [きていのほうさく], 状態行動 [Joutai Koudou] [じょうたいこうどう], 価値関数 [Kachi Kansuu] [かちかんすう]",	    
       "[漢] [相關] 強化學習，函數，預測，預期回報，從，採取，行動，處於一種狀態，然後遵循，給定的策略，狀態-行動，價值函數",
     ],
+
+        
+         [related] reinforcement learning:  [関連] 強化学習 [Kyouka Gakushu] [きょうかがくしゅう]:  [相關] 強化學習
+         the function:  関数 [Kansuu] [かんすう]: 函數
+         predicts: 予測 [Yosoku] [よそく]: 預測
