@@ -4,3 +4,8 @@
       "[和] [教師あり学習], [回答], [結果], [例の一部]",	    
       "[漢] [在監督學習中], [答案], [結果], [部分示例],
     ],
+ [In supervised learning], [教師あり学習][kyoushi ari gakushuu][きょうしありがくしゅう],[在監督學習中]
+[the answer] ,[回答][kaitou][かいとう], [答案]
+[result], [結果][kekka][けっか], [結果]
+[portion of an example], [例の一部][rei no ichibu][れいのいちぶ], [部分示例]
+    
