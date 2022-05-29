@@ -5,11 +5,11 @@
       "[漢] [一種細胞], [循環], [神經網絡], [RNN], [處理數據序列], [應用程序], [手寫識別], [機器翻譯], [圖像字幕], [長期 短期記憶（LSTM）], [解決梯度消失問題], [通過維護歷史], [內部記憶狀態]，[基於], [新輸入], [來自先前單元格的上下文]",
     ],
 
-        [A type of cell], [セルのタイプ] [一種細胞]
-        [recurrent], [リカレント],[循環]
+        [A type of cell], [セルのタイプ][Seru no taipu][セルのタイプ], [一種細胞]
+        [recurrent], [再帰型][saikigata][さいきがた],[循環]
         [neural network],[ニューラルネットワーク],[神經網絡]
-        [RNN], [RNN],[RNN]
-        [to process sequences of data], [データのシーケンスを処理する], [處理數據序列]
+        [RNN], [再帰型ニューラルネットワーク（RNN）][saikigata nyu-raru nettowaaku][さいきがたニューラルネットワーク],[RNN]
+        [to process sequences of data], [シーケンスデータを処理する],[shi-kensu deeta wo shori suru][シーケンスデータをしょりする][處理數據序列]
         [applications], [アプリケーション], [應用程序]
         [handwriting recognition], [手書き認識],[手寫識別]
         [machine translation], [機械翻訳],[機器翻譯]
