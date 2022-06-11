@@ -1,0 +1,10 @@
+    "what": [
+      "Values distant from most other values. In machine learning, any of the following are outliers:",
+      "- with high absolute values.",
+      "- Predicted values relatively far away from the actual values.",
+      "- Input data whose values are more than roughly 3 standard deviations from the mean.",
+      "Outliers often cause problems in model training. Clipping is one way of managing outliers.",
+      "[英] [related] [Values distant] [from most other values] [In machine learning] [any of the following are outliers] [with high absolute values] [Predicted values relatively far away from the actual values] [Input data whose values are more than roughly 3 standard deviations from the mean]",
+      "[和] [関連] [他のほとんどの値から離れた値][機械学習の場合][次のいずれかが異常値です][絶対値が高い][実際の値から比較的離れた予測値][値が約3標準偏差を超える入力データ 平均から]",	    
+      "[漢] [相關] [與大多數其他值相距甚遠的值] [在機器學習中] [以下任何一項都是異常值] [具有高絕對值] [預測值與實際值相距較遠] [輸入數據的值大於大約 3 個標準差 從平均數]",
+    ],
