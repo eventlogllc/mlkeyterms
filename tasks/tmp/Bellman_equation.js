@@ -9,3 +9,13 @@
       "[漢] [相關] [貝爾曼方程], [遵循特定的策略和功能], [給你], [最佳價值], [基於狀態], [遞歸計算], [通過將狀態/路徑劃分為子問題 或更小的問題]",
     ],
 
+[英] [related] "[和] [関連],[漢] [相關] 
+The Bellman Equation,  [ベルマン方程式][beruman houteishiki][ベルマンほうていしき],[貝爾曼方程]
+follows a specific policy and function, [特定のポリシーと機能に従う][tokutei no porishii to kinou ni shitagau][とくていのポリシーときのうにしたがう], [遵循特定的策略和功能]
+to give you, [与える],[ataeru][あたえる], [給你]
+the best value, [最良の値][sairyou no atai][さいりょうのあたい] , [最佳價值]
+based on the states, [状態に基づく] [joutai ni motoduku][じょうたいにもとづく], [基於狀態]
+it calculated recursively, [再帰的に計算する][saikiteki ni keisansuru] [さいきてきにけいさんする], [遞歸計算]
+through dividing the states/paths up into subproblems or smaller problems.,[状態/パスをサブ問題もしくはより小さな問題に分割することにより],[joutai/pasu wo sabu mondai moshikuwa yori chiisana mondai ni bunkatsusuru kotoniyori]
+[じょうたい/パスをサブもんだいもしくはよりちいさなもんだいにぶんかつすることにより] [通過將狀態/路徑劃分為子問題 或更小的問題]	    
+    
