@@ -9,7 +9,7 @@
 [outputs continuous (typically, floating-point) values]. [連続した（通常は浮動小数点）値を出力][renzoku shita (tsuujou ha fudoushousuuten) atai wo syutsuryoku][れんぞくした（つうじょうはふどうしょうすうてん）あたいをしゅつりょく][輸出連續（通常是浮點）值]
 [Compare with classification models][分類モデルと比較][bunnrui moderu to hikaku][ぶんるいモデルとひかく][輸出連續（通常是浮點）值]
 [output discrete values] [離散値を出力][risanchi wo shytsuryoku][りさんちをしゅつりょく][輸出離散值]
-[such as 'day lily' or 'tiger lily']", [「カンゾウ」や「トラユリ」など][「wasuregusa」ya「oniyuri」nado][「わすれぐさ」や「オニユリ」など][比如‘day lily’或者‘tiger lily’]",
+[such as 'day lily' or 'tiger lily']", [「わすれぐさ」や「オニユリ」など][「wasuregusa」ya「oniyuri」nado][「わすれぐさ」や「オニユリ」など][比如‘day lily’或者‘tiger lily’]",
       
      
 ],
