@@ -5,7 +5,7 @@
       "[和] [[予測の割合]、[分類モデルが正しかった]",	    
       "[漢] [預測的分數]，[分類模型正確]",
     ],
-[英] [The fraction of predictions],"[和] [[予測の割合],[yosoku no wariai][よそくのわりあい][分数予測][Bunsuu yosoku][ぶんすうよそく]  "[漢] [預測的分數]
+[英] [The fraction of predictions],"[和] [分数予測][Bunsuu yosoku][ぶんすうよそく]  "[漢] [預測的分數]
      [a classification model got right],[分類モデルが正しかった][bunrui moderu ga tadashikatta][ぶんるいモデルがただしかった]，[分類模型正確]",
       、",	    
     
