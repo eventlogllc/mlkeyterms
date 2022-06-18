@@ -1,0 +1,10 @@
+"what": [
+      "In mathematics, a tensor is an algebraic object that describes a multilinear relationship between sets of algebraic objects related to a vector space.",
+      "Objects that tensors may map between include vectors and scalars, and even other tensors.",
+      "There are many types of tensors, including scalars and vectors (which are the simplest tensors),",
+      "dual vectors, multilinear maps between vector spaces, and even some operations such as the dot product.",
+      "Tensors are defined independent of any basis, although they are often referred to by their components in a basis related to a particular coordinate system",
+      "[英] [related] The Bellman Equation, follows a specific policy and function, to give you, the best value, based on the states, it calculated recursively through dividing the states/paths up into subproblems or smaller problems. ",
+      "[和] [関連] [ベルマン方程式], [特定のポリシーと機能に従う], [与える], [最良の値], [状態に基づく], [再帰的に計算する], [状態/パスをサブ問題に分割することにより または小さな問題]",	    
+      "[漢] [相關] [貝爾曼方程], [遵循特定的策略和功能], [給你], [最佳價值], [基於狀態], [遞歸計算], [通過將狀態/路徑劃分為子問題 或更小的問題]",
+    ],
