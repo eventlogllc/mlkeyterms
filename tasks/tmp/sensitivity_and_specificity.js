@@ -1,5 +1,6 @@
 "what": [
-      "Sensitivity and specificity mathematically describe the accuracy of a test which reports the presence or absence of a condition. Individuals for which the condition is satisfied are considered "positive" and those for which it is not are considered "negative".
+      "Sensitivity and specificity mathematically describe the accuracy of a test which reports the presence or absence of a condition. ",
+      "Individuals for which the condition is satisfied are considered 'positive' and those for which it is not are considered 'negative'".
       "Sensitivity (true positive rate) refers to the probability of a positive test, conditioned on truly being positive"
       "Specificity (true negative rate) refers to the probability of a negative test, conditioned on truly being negative"
       "Application to screening study. Imagine a study evaluating a test that screens people for a disease",
