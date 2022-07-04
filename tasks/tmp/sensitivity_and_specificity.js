@@ -13,9 +13,9 @@
       "[漢] [相關] [敏感性和特異性] [數學描述測試的準確性] [報告是否存在條件] [滿足條件的個體被視為“陽性”] [不滿足條件的個體被視為' 消極的']",
     ],
 "[英] [related] "[和] [関連] [漢] [相關] 
-[Sensitivity and specificity]  [感度と特異度][敏感性和特異性] 
-[mathematically describe the accuracy of a test] [テストの精度を数学的に説明する][數學描述測試的準確性]
-[which reports the presence or absence of a condition] [条件の有無を報告する][報告是否存在條件]
-[Individuals for which the condition is satisfied are considered 'positive']  [条件が満たされる個人は「陽性」と見なされる][滿足條件的個體被視為“陽性”]
-[and those for which it is not are considered 'negative'] [および条件が満たされない個人は「」と見なされる ネガティブ'][不滿足條件的個體被視為' 消極的']
+[Sensitivity and specificity]  [感度と特異度][kando to tokuido][かんどととくいど][敏感性和特異性] 
+[mathematically describe the accuracy of a test] [テストの精度を数学的に説明する][tesuto no seido wo suugakuteki ni setsumei suru][テストのせいどをすうがくてきにせつめいする][數學描述測試的準確性]
+[which reports the presence or absence of a condition] [条件の有無を報告する][jouken no umu wo houkoku suru][じょうけんのうむをほうこくする][報告是否存在條件]
+[Individuals for which the condition is satisfied are considered 'positive']  [条件が満たされる個人は「陽性」と見なされる][jouken ga mitasareru kojin wa 「yousei」to minasareru][じょうけんがみたされるこじんは「ようせい」とみなされる][滿足條件的個體被視為“陽性”]
+[and those for which it is not are considered 'negative'] [および条件が満たされない個人は「陰性」と見なされる][oyobi jouken ga mitasarenai kojin wa 「insei」to minasareru][じょうけんがみたされないこじんは「いんせい」とみなされる][不滿足條件的個體被視為' 消極的']
     
