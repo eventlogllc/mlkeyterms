@@ -7,10 +7,10 @@
     ],
 
 "[英] [related]"[和] [関連]"[漢] [相關] 
-[AUC (Area under the ROC Curve)][AUC（ROC曲線の下の領域）] [AUC（ROC 曲線下的面積）] 
-[An evaluation metric that considers all possible classification thresholds] [すべての可能な分類しきい値を考慮した評価メトリック][一個考慮所有可能分類閾值的評估指標]
-[The Area Under the ROC curve] [ROC曲線の下の領域] [ROC 曲線下的面積]
-[is the probability that a classifier will be more confident] [分類子がより自信を持っている確率です] [是分類器更有信心的概率] 
-[that a randomly chosen positive example is actually positive] [ランダムに選択されたポジティブな例は実際にはポジティブな例です][隨機選擇的正例實際上是正例]
-[than that a randomly chosen negative example is positive][ランダムに選択されたネガティブな例はポジティブな例ではありません] [而不是隨機選擇的負例是正例]
+[AUC (Area under the ROC Curve)][AUC（ROC曲線の下の領域）][AUC(ROC kyokusen no shita no ryouiki][AUC(ROC)きょくせんのしたのりょういき] [AUC（ROC 曲線下的面積）] 
+[An evaluation metric that considers all possible classification thresholds] [すべての可能な分類しきい値を考慮した評価メトリック][subeteno kanouna bunrui shikiichi wo kouryoshita hyouka metorikku][すべてのかのうなしきいちをこうりょしたひょうかメトリック][一個考慮所有可能分類閾值的評估指標]
+[The Area Under the ROC curve] [ROC曲線の下の領域] [ROC kyokusen no shita no ryouiki][ROCきょくせんのしたのりょういき][ROC 曲線下的面積]
+[is the probability that a classifier will be more confident] [分類子がより自信を持っている確率である] [bunruishi ga yori jishin wo motteiru kakuritsu dearu][ぶんるいしがよりじしんをもっているかくりつである][是分類器更有信心的概率] 
+[that a randomly chosen positive example is actually positive] [ランダムに選択されたポジティブな例は実際にはポジティブである][randamu ni sentaku sareta pojitibu na rei wa jissainiwa pojitibu dearu][ランダムにせんたくされたポジティブなれいはじっさいにはポジティブである][隨機選擇的正例實際上是正例]
+[than that a randomly chosen negative example is positive][ランダムに選択されたネガティブな例はポジティブなである][randamu ni sentakusareta negatibu na rei wa pojitibu dearu ][ランダムにせんたくされたネガティブなれいはポジティブである] [而不是隨機選擇的負例是正例]
      
