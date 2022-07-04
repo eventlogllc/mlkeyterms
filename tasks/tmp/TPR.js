@@ -8,3 +8,15 @@
 
 
 
+[英] [related] "[和] [関連][漢] [相關]
+[true positive rate (TPR)] [真陽性率（TPR）][真陽性率 (TPR)]
+[Synonym for recall] [再現率の同義語][召回的同義詞]
+[True positive rate] [真陽性率][真陽性率] 
+[is the y-axis] [y軸] [是 y 軸]
+[in an ROC curve]  [ROC曲線内][在 ROC 曲線中]
+[TPR][TPR][TPR] 
+[=]  [=] [=]
+ [TP] [TP][TP]
+[/]  [/] [/] 
+ (TP + FN) （TP + FN） (TP + FN)
+       
