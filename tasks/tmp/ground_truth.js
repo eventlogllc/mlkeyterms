@@ -6,3 +6,10 @@
     ],
 
 
+[英] [related] [和] [関連] [漢] [相關]
+[The correct answer][正解][正確答案]
+[Reality][現実][現實]
+[Since reality is often subjective][現実はしばしば主観的であるため][由於現實通常是主觀的]
+[expert raters] [専門家の評価者][專家評估者]
+[typically are the proxy for ground truth][通常はグラウンドトゥルースの代理人です][通常是基本事實的代表]
+     
