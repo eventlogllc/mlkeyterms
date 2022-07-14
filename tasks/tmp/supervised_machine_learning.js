@@ -16,3 +16,14 @@
       "[通過學習] [一組問題] [及其相應的答案.]"
     ],",
 
+[英] [related]  [和] [関連][漢] [相關]
+    ★★[Training a model][モデルのトレーニング][moderu no treiningu][モデルのトレーニング][訓練模型]
+    [from input data][入力データから][nyuryoku deta kara][にゅうりょくデータから] [來自輸入數據]
+    [and its corresponding labels.][および対応するラベル。][oyobi taiou suru raberu][およびたいおうするラベル] [及其相應的標籤.]
+    [Supervised machine learning] [教師あり機械学習][kyoushi ari kikai gakushuu][きょうしありきかいがくしゅう][監督機器學習]
+    [is analogous to] [類似している][ruiji shiteiru][るいじしている] [類似於]
+    [a student learning a subject][主題を学習する学生,][shudai wo gakusyuu suru gakusei][しゅだいをがくしゅうするがくせい][學生學習一門學科]
+　　[by studying] [勉強することによって][benkyou surukotoni yotte][べんきょうすることによって][通過學習]
+    [a set of questions] [一連の質問][ichiren no shitsumon][いちれんのしつもん][一組問題]
+    [and their corresponding answers.][そして、それに対応する答え.][soshite, soreni taiou suru kotae][そして、それにたいおうするこたえ][及其相應的答案.]
+ 
