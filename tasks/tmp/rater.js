@@ -6,3 +6,10 @@
       "[漢] [一個人] [提供標籤] [在示例中]. [有時稱為] ['註釋者']",
     ],
 
+[英] [related] [和] [関連][漢]
+[A human]  [一人の人間][hitori no ningen][ひとりのにんげん][一個人]
+[who provides labels ] [ラベルを提供する][raberu wo teikyou suru][ラベルをていきょうする] [提供標籤]
+[in examples][例では][rei dewa][れいでは][在示例中]
+[Sometimes called] [時々呼ばれる][tokidoki yobareru][ときどきよばれる][有時稱為]
+[an 'annotator']['アノテーター'][anoteta][アノテーター] ['註釋者']
+    
