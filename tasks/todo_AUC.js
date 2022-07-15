@@ -13,4 +13,6 @@
 [is the probability that a classifier will be more confident] [分類子がより自信を持っている確率である] [bunruishi ga yori jishin wo motteiru kakuritsu dearu][ぶんるいしがよりじしんをもっているかくりつである][是分類器更有信心的概率] 
 [that a randomly chosen positive example is actually positive] [ランダムに選択されたポジティブな例は実際にはポジティブである][randamu ni sentaku sareta pojitibu na rei wa jissainiwa pojitibu dearu][ランダムにせんたくされたポジティブなれいはじっさいにはポジティブである][隨機選擇的正例實際上是正例]
 ★★★[than that a randomly chosen negative example is positive][ランダムに選択されたネガティブな例はポジティブなである][randamu ni sentakusareta negatibu na rei wa pojitibu dearu ][ランダムにせんたくされたネガティブなれいはポジティブである] [而不是隨機選擇的負例是正例]
-     
+
+★★★
+English sentence is too long to understand the correct meanings.
