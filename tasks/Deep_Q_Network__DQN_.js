@@ -7,5 +7,6 @@
 
         Q-learning: Q学習 [Q gakushu] [Q がくしゅう]: Q-學習
         a deep neural network: ディープニューラルネットワーク [Deepu nyuraru netto waaku] [ディープニューラルネットワーク]: 深度神經網絡
-        predicts: 予測 [yosoku] [よそく]: 預測
+        predicts: 予測する [yosoku suru] [よそくする]: 預測
         Q-functions: Q関数 [Q kansuu] [Q かんすう]: Q-函數
+
