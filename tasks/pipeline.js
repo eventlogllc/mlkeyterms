@@ -14,5 +14,5 @@
 [gathering the data][データの収集][收集數據] 
 [putting the data into training data files] [データをトレーニングデータファイルに入れる][データをトレーニングファイルにいれる][deita wo toreiningu deita fairu ni ireru][將數據放入訓練數據文件] 
 [training one or more models][1つ以上のモデルをトレーニングする][ひとついじょうのモデルをトレーニングする][hitotsu ijou no moderu wo toreiningu suru][訓練一個或多個模型]
-[and exporting the models to production][モデルを本番環境にエクスポートする][モデルをほんばんかんきょにエクスポートする][moderu wo honban kankyuou ni ekusupo-to suru[並將模型導出到生產環境]
+[and exporting the models to production][モデルを本番環境にエクスポートする][モデルをほんばんかんきょうにエクスポートする][moderu wo honban kankyuou ni ekusupo-to suru[並將模型導出到生產環境]
   
