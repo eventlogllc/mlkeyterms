@@ -14,3 +14,11 @@
     [to find patterns in a dataset][データセットでパターンを見つける][deta setto de pataan wo mitsukeru][データセットでパターンをみつける][在數據集中尋找模式]
     [typically an unlabeled dataset][通常はラベルのないデータセット][tsujou wa raberu no nai deta setto][つうじょうはラベルのないデータセット][通常是未標記的數據集]
    
+Training [トレーニング][treiningu][トレーニング]
+model [モデル][moderu][モデル]
+find [見つける][mitsukeru][みつける]
+patterns [パターン][pattan][パターン]
+in a dataset[データセットで][deta setto de][データセットで]
+typically [通常は][tsujou wa][つうじょうは]
+unlabeled [ラベルのない][raberu no nai][ラベルのない]
+dataset [データセット][deta setto][データセット]
