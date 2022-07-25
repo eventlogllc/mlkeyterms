@@ -5,6 +5,8 @@
       "[英] [related]  [A coefficient for a feature in a linear model, ] [or an edge in a deep network.]",
       "[The goal of training a linear model] [is to determine the ideal weight for each feature.],"
       "[If a weight is 0], [then its corresponding feature] [does not contribute to the model.]",
+      "[和] 重みは,線形モデルの特徴,または深いネットワークのエッジの係数です. 線形モデルをトレーニングする目的は,各特徴の理想的な重みを決定することです. 重みが0の場合, 対応する特徴はモデルに寄与しません."
+      "[漢] 權重 是 線性模型 中 特徵 或 深度網絡 中 邊緣的係數. 訓練 線性模型 的 目標 是 確定 每個 特徵的 理想 權重. 如果 權重 為 0，則 其 對應 的 特徵 對 模型 沒有 貢獻。"
       "[和] [関連] [線形モデルの特徴の係数][または深いネットワークのエッジ。]",
       "[線形モデルのトレーニングの目標][各特徴の理想的な重みを決定することです.]",
       "[重みが0の場合,] [対応する機能][モデルに寄与しません.]" 
