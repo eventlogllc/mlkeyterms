@@ -6,7 +6,7 @@
       "the student can then provide answers to new (never-before-seen) questions on the same topic.",
       "Compare with unsupervised machine learning.",
       "[和] 教師あり機械学習は, 入力データとそれに対応するラベルからモデルをトレーニングすることです. 教師あり機械学習は, 一連の質問とそれに対応する回答を学習することで, 学生が主題を学習するのに似ています.",
-      "[漢] 監 督 機 器 學 習 是 從 輸 入 數 據 及 其 相 應 標 籤 訓 練 模 型. 監 督 機 器 學 習 類 似 於 學 生 通 過 研 究 一 組 問 題 及 其 相 應 答 案 來 學 習 一門 學科。",  
+      "[漢] 監督 機器學習 是 從 輸入 數據 及其 相應 標籤 訓練 模型, 監督 機器學習 類似 於 學生 通過 研究 一組 問題 及其 相應 答案 來 學習 一門 學科.",  
       "[英] [related]  [Training a model] [from input data] [and its corresponding labels.]",
       "[Supervised machine learning] [is analogous to] [a student learning a subject],",
       "[by studying] [a set of questions] [and their corresponding answers.]",
