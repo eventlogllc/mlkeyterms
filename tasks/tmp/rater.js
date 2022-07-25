@@ -1,7 +1,7 @@
 "what": [
       "A human who provides labels in examples. Sometimes called an 'annotator.'",
       "[和] 評価者は, 例でラベルを提供する人です。アノテーターと呼ばれることもあります.",
-      "[漢] 評 估 者 是 在 示 例 中 提 供 標 籤 的 人. 有 時 稱 為 註 釋 者.",
+      "[漢] 評估者 是 在 示例 中 提供 標籤 的 人. 有時 稱為 註釋者.",
       "[英] [related] [A human] [who provides labels ] [in examples]. [Sometimes called] [an 'annotator']",
       "[和] [関連] [一人の人間] [ラベルを提供します] [例では]. [時々呼ばれる]['アノテーター']",	    
       "[漢] [一個人] [提供標籤] [在示例中]. [有時稱為] ['註釋者']",
