@@ -14,3 +14,10 @@
 [Sometimes called] [時々呼ばれる][tokidoki yobareru][ときどきよばれる][有時稱為]
 [an 'annotator']['アノテーター'][anoteta][アノテーター] ['註釋者']
     
+A human [人間][ningen][にんげん]
+Provides [提供する][teikyou suru][ていきょうする]
+labels [ラベル][raberu][ラベル]
+examples [例][rei][れい]
+Sometimes [しばしば][shiba shiba][しばしば]
+called [呼ばれる][yobareru][よばれる]
+annotator　[アノテーター][anoteta][アノテーター]
