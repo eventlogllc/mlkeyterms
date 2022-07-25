@@ -17,6 +17,19 @@
 [=] [=] [=] 
  [true_positives][真陽性][shin yousei][しんようせい][真陽性]
 [/] [/] [/]
- [ true_positives] + [false_positives]",（[真陽性] + [偽陽性]）([shin yousei]+[gi yousei])([しんようせい]+[ぎようせい])([真陽性 + 假陽性])
+ [ true_positives] + [false_positives]",（[真陽性] + [擬陽性]）([shin yousei]+[gi yousei])([しんようせい]+[ぎようせい])([真陽性 + 假陽性])
   ★★ [数学],	    
      ",
+A metric [距離][kyori][きょり]
+classification [分類][bunrui][ぶんるい]
+model　[モデル][moderu][モデル]
+Precision [精度][seido][せいど]
+identifies[識別する][shikibetsu suru][しきべつする]
+frequency[頻度][hindo][ひんど]
+correct [正しい][tadashii][ただしい]
+when [時][toki][とき]
+predicting [予測する][yosoku suru][よそくする]
+the positive [陽性][yousei][ようせい]
+class [クラス][kurasu][クラス]
+true_positives [真陽性][shin yousei][しんようせい]
+false_positives[擬陽性][gi yousei][ぎようせい]
