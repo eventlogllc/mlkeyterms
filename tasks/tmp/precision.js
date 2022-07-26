@@ -21,15 +21,13 @@
   ★★ [数学],	    
      ",
 A metric [距離][kyori][きょり]
-classification [分類][bunrui][ぶんるい]
-model　[モデル][moderu][モデル]
+classification　model [分類モデル][bunrui moderu][ぶんるいモデル]
 Precision [精度][seido][せいど]
 identifies[識別する][shikibetsu suru][しきべつする]
 frequency[頻度][hindo][ひんど]
 correct [正しい][tadashii][ただしい]
 when [時][toki][とき]
 predicting [予測する][yosoku suru][よそくする]
-the positive [陽性][yousei][ようせい]
-class [クラス][kurasu][クラス]
+the positive class [陽性クラス][yousei kurasu][ようせいクラス]
 true_positives [真陽性][shin yousei][しんようせい]
 false_positives[擬陽性][gi yousei][ぎようせい]
